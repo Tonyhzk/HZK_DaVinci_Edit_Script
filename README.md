@@ -71,7 +71,7 @@ python script.py
 
 ## 截图 / Screenshots
 
-![Snipaste_2025-03-09_17-23-38](assets/Snipaste_2025-03-09_17-23-38-20250309172417-fqueu4f.png)
+![Snipaste_2025-03-09_17-23-38](Pic/Snipaste_2025-03-09_17-23-38-20250309172417.png)
 
 ---
 
