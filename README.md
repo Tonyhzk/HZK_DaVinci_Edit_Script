@@ -10,17 +10,17 @@ HZK DaVinci Resolve Editing Script is a GUI tool developed with Python and Tkint
 
 ## 功能 / Features
 
-✅ **批量删除未启用的音频/视频片段**
-✅ **批量删除已启用的音频/视频片段**
-✅ **批量删除离线的音频/视频片段**
-✅ **批量切换音频/视频片段的启用状态**
-✅ **实时日志输出**
+* ✅ **批量删除未启用的音频/视频片段**
+* ✅ **批量删除已启用的音频/视频片段**
+* ✅ **批量删除离线的音频/视频片段**
+* ✅ **批量切换音频/视频片段的启用状态**
+* ✅ **实时日志输出**
 
-✅ **Bulk Delete disabled audio/video clips**
-✅ **Bulk Delete enabled audio/video clips**
-✅ **Bulk Delete offline audio/video clips**
-✅ **Bulk Toggle enable/disable state of audio/video clips**
-✅ **Real-time log output**
+* ✅ **Bulk Delete disabled audio/video clips**
+* ✅ **Bulk Delete enabled audio/video clips**
+* ✅ **Bulk Delete offline audio/video clips**
+* ✅ **Bulk Toggle enable/disable state of audio/video clips**
+* ✅ **Real-time log output**
 
 ---
 
